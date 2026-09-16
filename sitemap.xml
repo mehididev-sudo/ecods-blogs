@@ -33,7 +33,133 @@
   </url>
 
   <url>
+    <loc>https://www.ecods.net/category/outreach/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ecods.net/category/ab-testing/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ecods.net/category/cold-outreach/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ecods.net/category/b2b-tactics/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ecods.net/category/b2c-tactics/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ecods.net/category/deliverability/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ecods.net/category/email-tips/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ecods.net/category/automation/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ecods.net/category/sales/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ecods.net/category/personalization/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ecods.net/category/email-analytics/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ecods.net/category/campaign-tracking/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ecods.net/category/sales-tools/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ecods.net/category/spam-prevention/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ecods.net/category/copywriting/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://www.ecods.net/category/lead-generation/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ecods.net/category/list-building/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ecods.net/category/compliance/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ecods.net/category/legal/</loc>
     
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -44,6 +170,125 @@
     
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ecods.net/email-marketing/advanced-cold-email-strategies.html</loc>
+    <lastmod>2026-09-16T18:14:50.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ecods.net/email-marketing/cold-email-marketing-b2b-b2c-differences.html</loc>
+    <lastmod>2026-09-16T18:11:12.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ecods.net/email-marketing/troubleshooting-cold-email-problems.html</loc>
+    <lastmod>2026-09-16T18:06:26.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ecods.net/email-marketing/cold-email-automation-workflows-sequences.html</loc>
+    <lastmod>2026-09-16T18:02:25.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ecods.net/email-marketing/personalization-strategies-cold-email-outreach.html</loc>
+    <lastmod>2026-09-16T17:57:42.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ecods.net/email-marketing/tracking-measuring-cold-email-performance.html</loc>
+    <lastmod>2026-09-16T17:52:42.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ecods.net/sales-tools/cold-email-tools-software-comparison.html</loc>
+    <lastmod>2026-09-16T17:49:39.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ecods.net/email-marketing/cold-email-deliverability-spam-filters.html</loc>
+    <lastmod>2026-09-16T17:45:49.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ecods.net/email-marketing/cold-email-copywriting-subject-lines-messages.html</loc>
+    <lastmod>2026-09-16T17:42:37.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ecods.net/email-marketing/build-high-quality-cold-email-list.html</loc>
+    <lastmod>2026-09-16T17:38:28.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ecods.net/email-marketing/cold-email-legal-compliance.html</loc>
+    <lastmod>2026-09-16T17:32:52.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ecods.net/email-marketing/cold-email-marketing-beginners.html</loc>
+    <lastmod>2026-09-16T17:29:18.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ecods.net/email-marketing/clean-maintain-cold-email-list.html</loc>
+    <lastmod>2026-09-16T17:25:58.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ecods.net/email-marketing/legal-cold-email-list-building.html</loc>
+    <lastmod>2026-09-16T17:21:05.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ecods.net/email-marketing/avoiding-spam-traps-email-lists.html</loc>
+    <lastmod>2026-09-16T17:17:45.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ecods.net/email-marketing/targeted-leads-cold-email-campaigns.html</loc>
+    <lastmod>2026-09-16T17:12:49.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ecods.net/email-marketing/email-verification-tools-comparison.html</loc>
+    <lastmod>2026-09-16T17:07:27.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 
   <url>
