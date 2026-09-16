@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ecods</title>
+    <link>https://www.ecods.net/blog/</link>
+    <description>Latest posts from ecods</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Sep 2026 13:04:15 GMT</lastBuildDate>
+    <atom:link href="https://www.ecods.net/rss.xml" rel="self" type="application/rss+xml"/>
+    <generator>Static Site Generator v2.3.0</generator>
+
+    <item>
+      <title>Build a Verified Cold Email List: Your Step-by-Step Success Story</title>
+      <link>https://www.ecods.net/email-marketing/build-verified-cold-email-list.html</link>
+      <guid isPermaLink="true">https://www.ecods.net/email-marketing/build-verified-cold-email-list.html</guid>
+      <pubDate>Wed, 16 Sep 2026 13:04:15 GMT</pubDate>
+      <description>The Definitive Guide to Building a Verified Cold Email List: Rules, Real-World Choices, and Avoiding Painful Mistakes
+
+
+Building a verified cold email list is not about scraping every email you can find or buying questionable databases. It’s about being precise, methodical, and realistic about what actually works. I’ve spent years on both sides, careful research and some regretful shortcuts, and have learned which steps are always worth it and where you can safely adjust based on your goals.
+
+
+T</description>
+      <category>Email Marketing</category>
+      <author>Mehidi Hasan</author>
+    </item>
+  </channel>
+</rss>
